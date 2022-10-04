@@ -27,4 +27,4 @@ The password when lowercase letters were declined.
 I found this nifty site on getting multiple random elements from an array in JavaScript. Very helpful.
 https://bobbyhadz.com/blog/javascript-get-multiple-random-elements-from-array
 author: Borislav Hadzhiev
-Also Josh Diehl my TA helped me to get started. I was having a hard time getting multiple characters to generate, and ended up with "undefined". 
+Also Josh Diehl my TA helped me to get started. I was having a hard time getting multiple characters to generate, and ended up with "undefined" many times. So thank you Josh!
